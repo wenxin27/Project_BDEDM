@@ -1,0 +1,1 @@
+including web crawling stock comment from Eastmoney and using bert-base-chinese model after fine-tune to do sentiment classification.
