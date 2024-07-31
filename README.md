@@ -10,10 +10,11 @@ If you have some questions and suggestions, please contact me by wenxin0727@conn
 
 Here are sentiment classification model and time series model architectures.
 
-<img width="1040" alt="截屏2024-08-01 上午12 28 07" src="https://github.com/user-attachments/assets/fc7e37a1-99b5-4ae9-8191-b859ad87066b">
+
+<img width="1028" alt="截屏2024-08-01 上午12 30 58" src="https://github.com/user-attachments/assets/d9b08753-15d0-43df-8921-72d77b0e4036">
 
 
-<img width="1038" alt="截屏2024-08-01 上午12 28 30" src="https://github.com/user-attachments/assets/c9942742-1abe-429b-baef-0b67518d4b17">
+<img width="1030" alt="截屏2024-08-01 上午12 31 31" src="https://github.com/user-attachments/assets/94f281da-4426-415b-8476-680643edf333">
 
 
-<img width="1037" alt="截屏2024-08-01 上午12 28 47" src="https://github.com/user-attachments/assets/ff2d4c34-8f0e-44e9-b761-79a27f9899d2">
+<img width="1028" alt="截屏2024-08-01 上午12 31 50" src="https://github.com/user-attachments/assets/273d0abb-e7e0-448a-b0f1-43f4dd39e20c">
